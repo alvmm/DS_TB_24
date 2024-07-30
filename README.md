@@ -1,2 +1,2 @@
 # DS_TB_24
-blablabla
+Repositorio de las entregas para el Bootcamp de Data Science.
